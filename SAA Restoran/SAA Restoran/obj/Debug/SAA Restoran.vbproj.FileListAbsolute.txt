@@ -1,0 +1,11 @@
+D:\Program\SAA-Restoran\SAA Restoran\SAA Restoran\bin\Debug\SAA Restoran.exe.config
+D:\Program\SAA-Restoran\SAA Restoran\SAA Restoran\bin\Debug\SAA Restoran.exe
+D:\Program\SAA-Restoran\SAA Restoran\SAA Restoran\bin\Debug\SAA Restoran.pdb
+D:\Program\SAA-Restoran\SAA Restoran\SAA Restoran\bin\Debug\SAA Restoran.xml
+D:\Program\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Debug\SAA Restoran.vbprojAssemblyReference.cache
+D:\Program\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Debug\SAA_Restoran.Form1.resources
+D:\Program\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Debug\SAA_Restoran.Resources.resources
+D:\Program\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Debug\SAA Restoran.vbproj.GenerateResource.cache
+D:\Program\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Debug\SAA Restoran.exe
+D:\Program\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Debug\SAA Restoran.xml
+D:\Program\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Debug\SAA Restoran.pdb
