@@ -68,7 +68,7 @@ Partial Class Form1
         Me.BtnLogin.Name = "BtnLogin"
         Me.BtnLogin.Size = New System.Drawing.Size(75, 23)
         Me.BtnLogin.TabIndex = 4
-        Me.BtnLogin.Text = "Login"
+        Me.BtnLogin.Text = "Log In"
         Me.BtnLogin.UseVisualStyleBackColor = True
         '
         'Form1
