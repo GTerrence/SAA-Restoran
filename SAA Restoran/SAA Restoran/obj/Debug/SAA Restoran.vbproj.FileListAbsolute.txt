@@ -20,3 +20,5 @@ C:\Users\Lenovo\Desktop\Design AD\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Deb
 C:\Users\Lenovo\Desktop\Design AD\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Debug\SAA Restoran.exe
 C:\Users\Lenovo\Desktop\Design AD\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Debug\SAA Restoran.xml
 C:\Users\Lenovo\Desktop\Design AD\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Debug\SAA Restoran.pdb
+C:\Users\Lenovo\Desktop\Design AD\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Debug\SAA_Restoran.Form2.resources
+C:\Users\Lenovo\Desktop\Design AD\SAA-Restoran\SAA Restoran\SAA Restoran\obj\Debug\SAA Restoran.vbproj.CoreCompileInputs.cache
